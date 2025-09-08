@@ -54,7 +54,8 @@ for dir in ./modules/vendor_dlkm ./modules/system_dlkm ./modules/vendor_boot ./i
 done
 
 # Extract the OTA package
-extract_out=$(mktemp -d)
+extract_out=$(TMPDIR=/var/tmp mktemp -d)
+
 echo "Using $extract_out as working directory"
 
 echo "Extracting the payload from $ROM_ZIP"
