@@ -1,0 +1,1 @@
+savedcmd_usr/include/drm/habanalabs_accel.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/drm/habanalabs_accel.h usr/include/drm/habanalabs_accel.h

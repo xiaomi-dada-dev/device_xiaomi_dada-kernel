@@ -1,0 +1,1 @@
+savedcmd_usr/include/linux/isst_if.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/linux/isst_if.h usr/include/linux/isst_if.h

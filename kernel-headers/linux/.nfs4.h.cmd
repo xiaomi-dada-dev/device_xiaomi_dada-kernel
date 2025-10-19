@@ -1,0 +1,1 @@
+savedcmd_usr/include/linux/nfs4.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/linux/nfs4.h usr/include/linux/nfs4.h

@@ -1,0 +1,1 @@
+savedcmd_usr/include/linux/gameport.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/linux/gameport.h usr/include/linux/gameport.h

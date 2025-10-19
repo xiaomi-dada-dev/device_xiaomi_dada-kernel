@@ -1,0 +1,1 @@
+savedcmd_usr/include/linux/tps6594_pfsm.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/linux/tps6594_pfsm.h usr/include/linux/tps6594_pfsm.h

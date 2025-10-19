@@ -1,0 +1,1 @@
+savedcmd_usr/include/linux/lirc.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/linux/lirc.h usr/include/linux/lirc.h

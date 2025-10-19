@@ -1,0 +1,1 @@
+savedcmd_usr/include/drm/ivpu_accel.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/drm/ivpu_accel.h usr/include/drm/ivpu_accel.h

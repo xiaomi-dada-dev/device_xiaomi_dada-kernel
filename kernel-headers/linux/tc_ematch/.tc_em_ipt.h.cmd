@@ -1,0 +1,1 @@
+savedcmd_usr/include/linux/tc_ematch/tc_em_ipt.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/linux/tc_ematch/tc_em_ipt.h usr/include/linux/tc_ematch/tc_em_ipt.h

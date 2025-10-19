@@ -1,0 +1,1 @@
+savedcmd_usr/include/xen/gntdev.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/xen/gntdev.h usr/include/xen/gntdev.h

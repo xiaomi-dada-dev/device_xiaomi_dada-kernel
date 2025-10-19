@@ -1,0 +1,1 @@
+savedcmd_usr/include/linux/netfilter/nf_tables.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/linux/netfilter/nf_tables.h usr/include/linux/netfilter/nf_tables.h

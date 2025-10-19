@@ -1,0 +1,1 @@
+savedcmd_usr/include/linux/map_to_7segment.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/linux/map_to_7segment.h usr/include/linux/map_to_7segment.h

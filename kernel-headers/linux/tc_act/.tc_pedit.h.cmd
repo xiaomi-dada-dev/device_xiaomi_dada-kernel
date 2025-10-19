@@ -1,0 +1,1 @@
+savedcmd_usr/include/linux/tc_act/tc_pedit.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/linux/tc_act/tc_pedit.h usr/include/linux/tc_act/tc_pedit.h

@@ -1,0 +1,1 @@
+savedcmd_usr/include/linux/nfc/nfcinfo.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/../sm8750-modules/nxp/opensource/driver/include/uapi/linux/nfc/nfcinfo.h usr/include/linux/nfc/nfcinfo.h

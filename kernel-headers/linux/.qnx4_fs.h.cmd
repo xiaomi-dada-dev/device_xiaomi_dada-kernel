@@ -1,0 +1,1 @@
+savedcmd_usr/include/linux/qnx4_fs.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/linux/qnx4_fs.h usr/include/linux/qnx4_fs.h

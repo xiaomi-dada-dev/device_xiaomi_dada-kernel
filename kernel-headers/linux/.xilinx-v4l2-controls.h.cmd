@@ -1,0 +1,1 @@
+savedcmd_usr/include/linux/xilinx-v4l2-controls.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/linux/xilinx-v4l2-controls.h usr/include/linux/xilinx-v4l2-controls.h

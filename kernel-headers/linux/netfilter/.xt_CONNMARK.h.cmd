@@ -1,0 +1,1 @@
+savedcmd_usr/include/linux/netfilter/xt_CONNMARK.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/linux/netfilter/xt_CONNMARK.h usr/include/linux/netfilter/xt_CONNMARK.h

@@ -1,0 +1,1 @@
+savedcmd_usr/include/linux/mempolicy.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/linux/mempolicy.h usr/include/linux/mempolicy.h

@@ -1,0 +1,1 @@
+savedcmd_usr/include/asm-generic/int-l64.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/asm-generic/int-l64.h usr/include/asm-generic/int-l64.h

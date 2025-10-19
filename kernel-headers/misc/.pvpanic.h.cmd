@@ -1,0 +1,1 @@
+savedcmd_usr/include/misc/pvpanic.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/misc/pvpanic.h usr/include/misc/pvpanic.h

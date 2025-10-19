@@ -1,0 +1,1 @@
+savedcmd_usr/include/drm/vgem_drm.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/drm/vgem_drm.h usr/include/drm/vgem_drm.h

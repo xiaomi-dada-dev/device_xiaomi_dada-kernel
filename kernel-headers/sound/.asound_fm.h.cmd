@@ -1,0 +1,1 @@
+savedcmd_usr/include/sound/asound_fm.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/sound/asound_fm.h usr/include/sound/asound_fm.h

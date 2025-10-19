@@ -1,0 +1,1 @@
+savedcmd_usr/include/linux/synclink.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/linux/synclink.h usr/include/linux/synclink.h

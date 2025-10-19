@@ -1,0 +1,1 @@
+savedcmd_usr/include/linux/posix_acl_xattr.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/linux/posix_acl_xattr.h usr/include/linux/posix_acl_xattr.h

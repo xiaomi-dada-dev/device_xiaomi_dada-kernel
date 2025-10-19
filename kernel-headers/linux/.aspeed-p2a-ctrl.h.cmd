@@ -1,0 +1,1 @@
+savedcmd_usr/include/linux/aspeed-p2a-ctrl.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/linux/aspeed-p2a-ctrl.h usr/include/linux/aspeed-p2a-ctrl.h

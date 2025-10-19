@@ -1,0 +1,1 @@
+savedcmd_usr/include/linux/mei_uuid.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/linux/mei_uuid.h usr/include/linux/mei_uuid.h

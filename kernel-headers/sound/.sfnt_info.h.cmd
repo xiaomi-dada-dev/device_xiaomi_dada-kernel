@@ -1,0 +1,1 @@
+savedcmd_usr/include/sound/sfnt_info.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/sound/sfnt_info.h usr/include/sound/sfnt_info.h

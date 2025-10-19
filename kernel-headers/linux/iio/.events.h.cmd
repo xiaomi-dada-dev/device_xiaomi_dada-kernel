@@ -1,0 +1,1 @@
+savedcmd_usr/include/linux/iio/events.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/linux/iio/events.h usr/include/linux/iio/events.h

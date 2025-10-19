@@ -1,0 +1,1 @@
+savedcmd_usr/include/video/edid.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/video/edid.h usr/include/video/edid.h

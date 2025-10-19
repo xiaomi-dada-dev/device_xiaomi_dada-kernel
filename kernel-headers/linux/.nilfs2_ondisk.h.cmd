@@ -1,0 +1,1 @@
+savedcmd_usr/include/linux/nilfs2_ondisk.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/linux/nilfs2_ondisk.h usr/include/linux/nilfs2_ondisk.h

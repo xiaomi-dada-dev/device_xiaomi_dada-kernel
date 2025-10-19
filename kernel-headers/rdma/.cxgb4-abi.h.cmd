@@ -1,0 +1,1 @@
+savedcmd_usr/include/rdma/cxgb4-abi.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/rdma/cxgb4-abi.h usr/include/rdma/cxgb4-abi.h

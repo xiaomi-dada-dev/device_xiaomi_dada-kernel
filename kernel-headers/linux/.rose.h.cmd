@@ -1,0 +1,1 @@
+savedcmd_usr/include/linux/rose.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/linux/rose.h usr/include/linux/rose.h

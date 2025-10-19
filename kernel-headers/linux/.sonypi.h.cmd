@@ -1,0 +1,1 @@
+savedcmd_usr/include/linux/sonypi.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/linux/sonypi.h usr/include/linux/sonypi.h

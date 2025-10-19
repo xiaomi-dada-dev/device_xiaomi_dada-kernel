@@ -1,0 +1,1 @@
+savedcmd_usr/include/linux/nfc/sn_uapi.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/../sm8750-modules/nxp/opensource/driver/include/uapi/linux/nfc/sn_uapi.h usr/include/linux/nfc/sn_uapi.h

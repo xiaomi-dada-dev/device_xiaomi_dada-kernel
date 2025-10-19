@@ -1,0 +1,1 @@
+savedcmd_usr/include/rdma/irdma-abi.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/rdma/irdma-abi.h usr/include/rdma/irdma-abi.h

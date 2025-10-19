@@ -1,0 +1,1 @@
+savedcmd_usr/include/linux/dvb/audio.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/linux/dvb/audio.h usr/include/linux/dvb/audio.h

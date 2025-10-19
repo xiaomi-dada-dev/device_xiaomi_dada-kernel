@@ -1,0 +1,1 @@
+savedcmd_usr/include/linux/byteorder/big_endian.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/linux/byteorder/big_endian.h usr/include/linux/byteorder/big_endian.h

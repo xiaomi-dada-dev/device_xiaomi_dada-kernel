@@ -1,0 +1,1 @@
+savedcmd_usr/include/asm/perf_regs.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/arch/arm64/include/uapi/asm/perf_regs.h usr/include/asm/perf_regs.h

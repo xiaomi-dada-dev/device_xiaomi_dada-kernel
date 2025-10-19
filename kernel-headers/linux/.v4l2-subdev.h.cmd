@@ -1,0 +1,1 @@
+savedcmd_usr/include/linux/v4l2-subdev.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/linux/v4l2-subdev.h usr/include/linux/v4l2-subdev.h

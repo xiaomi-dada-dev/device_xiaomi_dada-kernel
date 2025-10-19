@@ -1,0 +1,1 @@
+savedcmd_usr/include/linux/rkisp1-config.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/linux/rkisp1-config.h usr/include/linux/rkisp1-config.h

@@ -1,0 +1,1 @@
+savedcmd_usr/include/linux/atm_tcp.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/linux/atm_tcp.h usr/include/linux/atm_tcp.h

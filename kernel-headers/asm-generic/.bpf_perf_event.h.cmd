@@ -1,0 +1,1 @@
+savedcmd_usr/include/asm-generic/bpf_perf_event.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/asm-generic/bpf_perf_event.h usr/include/asm-generic/bpf_perf_event.h

@@ -1,0 +1,1 @@
+savedcmd_usr/include/asm-generic/hugetlb_encode.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/asm-generic/hugetlb_encode.h usr/include/asm-generic/hugetlb_encode.h

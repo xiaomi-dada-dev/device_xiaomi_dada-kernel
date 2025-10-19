@@ -1,0 +1,1 @@
+savedcmd_usr/include/linux/batman_adv.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/linux/batman_adv.h usr/include/linux/batman_adv.h

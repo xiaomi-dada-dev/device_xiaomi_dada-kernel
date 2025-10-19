@@ -1,0 +1,1 @@
+savedcmd_usr/include/linux/videodev2.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/linux/videodev2.h usr/include/linux/videodev2.h

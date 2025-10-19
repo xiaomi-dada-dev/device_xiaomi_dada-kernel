@@ -1,0 +1,1 @@
+savedcmd_usr/include/linux/can/vxcan.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/linux/can/vxcan.h usr/include/linux/can/vxcan.h

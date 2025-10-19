@@ -1,0 +1,1 @@
+savedcmd_usr/include/linux/l2tp.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/linux/l2tp.h usr/include/linux/l2tp.h

@@ -1,0 +1,1 @@
+savedcmd_usr/include/scsi/scsi_netlink_fc.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/scsi/scsi_netlink_fc.h usr/include/scsi/scsi_netlink_fc.h
