@@ -120,6 +120,12 @@ echo "Done. Extracting the system dlkm"
 echo "Copying all system dlkm modules"
 cp -r $out/lib/modules/6.6* ./modules/system_dlkm/
 
+if [ -d "$out/flatten/lib/modules" ]; then
+    echo "Copying flattened system dlkm modules"
+	mkdir -p ./modules/system_dlkm/flatten
+    cp -r $out/flatten/lib/modules/* ./modules/system_dlkm/flatten
+fi
+
 # Extract DTBO and DTBs
 echo "Extracting DTBO and DTBs"
 
