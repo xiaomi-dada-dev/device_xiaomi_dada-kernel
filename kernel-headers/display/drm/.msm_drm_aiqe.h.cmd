@@ -1,0 +1,1 @@
+savedcmd_usr/include/display/drm/msm_drm_aiqe.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/../sm8750-modules/qcom/opensource/display-drivers/include/uapi/display/drm/msm_drm_aiqe.h usr/include/display/drm/msm_drm_aiqe.h

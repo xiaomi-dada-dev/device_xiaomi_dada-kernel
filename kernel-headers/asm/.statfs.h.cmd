@@ -1,0 +1,1 @@
+savedcmd_usr/include/asm/statfs.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/arch/arm64/include/uapi/asm/statfs.h usr/include/asm/statfs.h

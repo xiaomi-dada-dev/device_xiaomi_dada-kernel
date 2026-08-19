@@ -1,0 +1,1 @@
+savedcmd_usr/include/sound/compress_offload.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/sound/compress_offload.h usr/include/sound/compress_offload.h

@@ -1,0 +1,1 @@
+savedcmd_usr/include/sound/intel/avs/tokens.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/sound/intel/avs/tokens.h usr/include/sound/intel/avs/tokens.h

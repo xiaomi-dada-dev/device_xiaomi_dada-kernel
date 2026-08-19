@@ -1,0 +1,1 @@
+savedcmd_usr/include/sound/emu10k1.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/sound/emu10k1.h usr/include/sound/emu10k1.h

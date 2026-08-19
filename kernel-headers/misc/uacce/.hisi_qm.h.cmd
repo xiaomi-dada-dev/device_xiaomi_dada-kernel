@@ -1,0 +1,1 @@
+savedcmd_usr/include/misc/uacce/hisi_qm.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/misc/uacce/hisi_qm.h usr/include/misc/uacce/hisi_qm.h

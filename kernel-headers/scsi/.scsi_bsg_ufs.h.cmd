@@ -1,0 +1,1 @@
+savedcmd_usr/include/scsi/scsi_bsg_ufs.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/scsi/scsi_bsg_ufs.h usr/include/scsi/scsi_bsg_ufs.h

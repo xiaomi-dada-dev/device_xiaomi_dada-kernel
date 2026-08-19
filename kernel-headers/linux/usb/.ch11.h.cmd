@@ -1,0 +1,1 @@
+savedcmd_usr/include/linux/usb/ch11.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/linux/usb/ch11.h usr/include/linux/usb/ch11.h

@@ -1,0 +1,1 @@
+savedcmd_usr/include/linux/atmbr2684.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/linux/atmbr2684.h usr/include/linux/atmbr2684.h

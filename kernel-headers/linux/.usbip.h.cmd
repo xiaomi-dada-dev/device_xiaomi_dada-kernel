@@ -1,0 +1,1 @@
+savedcmd_usr/include/linux/usbip.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/linux/usbip.h usr/include/linux/usbip.h

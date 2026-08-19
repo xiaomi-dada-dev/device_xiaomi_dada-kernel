@@ -1,0 +1,1 @@
+savedcmd_usr/include/linux/dma-buf.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/linux/dma-buf.h usr/include/linux/dma-buf.h

@@ -1,0 +1,1 @@
+savedcmd_usr/include/linux/net_namespace.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/linux/net_namespace.h usr/include/linux/net_namespace.h

@@ -1,0 +1,1 @@
+savedcmd_usr/include/linux/qemu_fw_cfg.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/linux/qemu_fw_cfg.h usr/include/linux/qemu_fw_cfg.h

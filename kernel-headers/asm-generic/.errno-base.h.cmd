@@ -1,0 +1,1 @@
+savedcmd_usr/include/asm-generic/errno-base.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/asm-generic/errno-base.h usr/include/asm-generic/errno-base.h

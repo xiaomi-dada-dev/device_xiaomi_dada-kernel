@@ -1,0 +1,1 @@
+savedcmd_usr/include/linux/mrp_bridge.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/linux/mrp_bridge.h usr/include/linux/mrp_bridge.h

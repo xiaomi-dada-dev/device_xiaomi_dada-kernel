@@ -1,0 +1,1 @@
+savedcmd_usr/include/linux/omap3isp.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/linux/omap3isp.h usr/include/linux/omap3isp.h

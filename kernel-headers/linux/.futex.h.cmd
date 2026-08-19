@@ -1,0 +1,1 @@
+savedcmd_usr/include/linux/futex.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/linux/futex.h usr/include/linux/futex.h

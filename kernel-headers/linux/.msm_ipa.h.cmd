@@ -1,0 +1,1 @@
+savedcmd_usr/include/linux/msm_ipa.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/../sm8750-modules/qcom/opensource/dataipa/drivers/platform/msm/include/uapi/linux/msm_ipa.h usr/include/linux/msm_ipa.h

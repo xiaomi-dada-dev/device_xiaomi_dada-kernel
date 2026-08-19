@@ -1,0 +1,1 @@
+savedcmd_usr/include/rdma/efa-abi.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/rdma/efa-abi.h usr/include/rdma/efa-abi.h

@@ -1,0 +1,1 @@
+savedcmd_usr/include/linux/elf-fdpic.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/linux/elf-fdpic.h usr/include/linux/elf-fdpic.h

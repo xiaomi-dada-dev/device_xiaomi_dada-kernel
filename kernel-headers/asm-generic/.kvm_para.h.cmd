@@ -1,0 +1,1 @@
+savedcmd_usr/include/asm-generic/kvm_para.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/asm-generic/kvm_para.h usr/include/asm-generic/kvm_para.h

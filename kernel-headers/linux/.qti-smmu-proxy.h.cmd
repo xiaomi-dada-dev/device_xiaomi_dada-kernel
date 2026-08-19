@@ -1,0 +1,1 @@
+savedcmd_usr/include/linux/qti-smmu-proxy.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/../sm8750-modules/qcom/opensource/securemsm-kernel/smmu-proxy/include/uapi/linux/qti-smmu-proxy.h usr/include/linux/qti-smmu-proxy.h

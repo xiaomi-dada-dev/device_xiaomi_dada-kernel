@@ -1,0 +1,1 @@
+savedcmd_usr/include/linux/nvme_ioctl.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/linux/nvme_ioctl.h usr/include/linux/nvme_ioctl.h

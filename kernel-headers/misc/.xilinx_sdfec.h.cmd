@@ -1,0 +1,1 @@
+savedcmd_usr/include/misc/xilinx_sdfec.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/misc/xilinx_sdfec.h usr/include/misc/xilinx_sdfec.h

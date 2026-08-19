@@ -1,0 +1,1 @@
+savedcmd_usr/include/linux/dns_resolver.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/linux/dns_resolver.h usr/include/linux/dns_resolver.h

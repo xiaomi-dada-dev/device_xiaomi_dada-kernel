@@ -1,0 +1,1 @@
+savedcmd_usr/include/rdma/mlx5_user_ioctl_verbs.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/rdma/mlx5_user_ioctl_verbs.h usr/include/rdma/mlx5_user_ioctl_verbs.h

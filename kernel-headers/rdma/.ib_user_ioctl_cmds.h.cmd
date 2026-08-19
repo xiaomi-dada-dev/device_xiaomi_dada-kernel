@@ -1,0 +1,1 @@
+savedcmd_usr/include/rdma/ib_user_ioctl_cmds.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/rdma/ib_user_ioctl_cmds.h usr/include/rdma/ib_user_ioctl_cmds.h

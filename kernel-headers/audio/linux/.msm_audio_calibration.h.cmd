@@ -1,0 +1,1 @@
+savedcmd_usr/include/audio/linux/msm_audio_calibration.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/../sm8750-modules/qcom/opensource/audio-kernel/include/uapi/audio/linux/msm_audio_calibration.h usr/include/audio/linux/msm_audio_calibration.h

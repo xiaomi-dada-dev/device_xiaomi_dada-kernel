@@ -1,0 +1,1 @@
+savedcmd_usr/include/linux/msm_sysstats.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/linux/msm_sysstats.h usr/include/linux/msm_sysstats.h

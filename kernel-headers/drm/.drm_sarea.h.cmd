@@ -1,0 +1,1 @@
+savedcmd_usr/include/drm/drm_sarea.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/drm/drm_sarea.h usr/include/drm/drm_sarea.h

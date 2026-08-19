@@ -1,0 +1,1 @@
+savedcmd_usr/include/linux/msdos_fs.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/linux/msdos_fs.h usr/include/linux/msdos_fs.h

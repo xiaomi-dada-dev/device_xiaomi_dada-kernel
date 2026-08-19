@@ -1,0 +1,1 @@
+savedcmd_usr/include/display/hdcp/msm_hdmi_hdcp_mgr.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/../sm8750-modules/qcom/opensource/display-drivers/include/uapi/display/hdcp/msm_hdmi_hdcp_mgr.h usr/include/display/hdcp/msm_hdmi_hdcp_mgr.h

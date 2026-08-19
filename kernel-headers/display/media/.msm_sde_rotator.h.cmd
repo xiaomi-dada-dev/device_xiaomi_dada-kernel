@@ -1,0 +1,1 @@
+savedcmd_usr/include/display/media/msm_sde_rotator.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/../sm8750-modules/qcom/opensource/display-drivers/include/uapi/display/media/msm_sde_rotator.h usr/include/display/media/msm_sde_rotator.h

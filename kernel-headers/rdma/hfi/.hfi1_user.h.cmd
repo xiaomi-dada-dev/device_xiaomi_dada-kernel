@@ -1,0 +1,1 @@
+savedcmd_usr/include/rdma/hfi/hfi1_user.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/rdma/hfi/hfi1_user.h usr/include/rdma/hfi/hfi1_user.h

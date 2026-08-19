@@ -1,0 +1,1 @@
+savedcmd_usr/include/linux/sock_diag.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/linux/sock_diag.h usr/include/linux/sock_diag.h

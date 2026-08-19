@@ -1,0 +1,1 @@
+savedcmd_usr/include/linux/ip_vs.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/linux/ip_vs.h usr/include/linux/ip_vs.h

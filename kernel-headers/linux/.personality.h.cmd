@@ -1,0 +1,1 @@
+savedcmd_usr/include/linux/personality.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/linux/personality.h usr/include/linux/personality.h

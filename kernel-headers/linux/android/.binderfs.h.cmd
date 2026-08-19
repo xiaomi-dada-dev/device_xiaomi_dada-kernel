@@ -1,0 +1,1 @@
+savedcmd_usr/include/linux/android/binderfs.h := sh /home/nawo/Work/lineage/kernel/qcom/sm8750/scripts/headers_install.sh /home/nawo/Work/lineage/kernel/qcom/sm8750/include/uapi/linux/android/binderfs.h usr/include/linux/android/binderfs.h
